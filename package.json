@@ -1,0 +1,26 @@
+{
+  "name": "socketio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JNUCapstone/socketio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JNUCapstone/socketio/issues"
+  },
+  "homepage": "https://github.com/JNUCapstone/socketio#readme",
+  "dependencies": {
+    "async-child-process": "^1.1.1",
+    "cors": "^2.8.4",
+    "docker-cli-js": "^2.2.0",
+    "dockerstats": "^1.1.0",
+    "express": "^4.16.3"
+  }
+}
